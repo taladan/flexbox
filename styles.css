@@ -79,3 +79,15 @@
   align-self: flex-end;
   margin-bottom: 20px;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-item {
+  border: 1px solid #ff;
+  background-color: #d6e9fe;
+  height: 200px;
+  flex: 1;
+}
