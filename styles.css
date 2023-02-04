@@ -86,8 +86,12 @@
 }
 
 .footer-item {
-  border: 1px solid #ff;
+  border: 1px solid #fff;
   background-color: #d6e9fe;
   height: 200px;
   flex: 1;
+}
+
+.footer-three {
+  flex: 2;
 }
