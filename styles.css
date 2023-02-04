@@ -13,21 +13,18 @@
 }
 
 .menu {
-  border: 1px solid #fff; /* for debugging */
   width: 900px;
   display: flex;
   justify-content: space-between;
-  font-weight: bolder;
 }
 
-.links {
-  border: 1px solid #fff; /* for debugging */
+/* .links {
+  border: 1px solid #fff; 
   display: flex;
   justify-content: flex-end;
-}
+}*/
 
 .login {
-  border: 1px solid #fff; /* for debugging */
   margin-left: 20px;
 }
 
